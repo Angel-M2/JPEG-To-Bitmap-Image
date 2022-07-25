@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\jpg.h(76,24): warning C4305: 'initializing': truncation from 'int' to 'byte'
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\jpg.h(76,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\jpg.h(79,24): warning C4305: 'initializing': truncation from 'int' to 'byte'
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\jpg.h(79,19): warning C4309: 'initializing': truncation of constant value
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\ColorConversion.h(13,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\ColorConversion.h(14,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Decoder\ColorConversion.h(15,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Decoder.vcxproj -> C:\Users\angel\OneDrive\Desktop\Homework\4557\ESOF-4557 Project\4557 Jpeg to btimap final\Decoder\Debug\Decoder.exe
